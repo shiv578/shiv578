@@ -26,13 +26,12 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech CSE (Lateral Entry)** student from India  
+- 🎓 **B.Tech CSE ** student from India  
 - 🎯 Career focus: **Software Engineering with Cloud & DevOps**
 - ☁️ Hands-on experience with **AWS, Linux, Docker, CI/CD pipelines**
 - 🔁 Strong interest in **automation, scalability & system reliability**
 - 🏗️ Actively building production-ready projects
 - 🧠 Currently learning **DevOps architecture, cloud security & monitoring**
-- 🏏 Fun fact: **Virat Kohli is my favorite cricketer**
 
 ---
 
@@ -103,7 +102,9 @@ A full-stack web application for buying, selling, and renting properties with se
 ## 🤝 Connect With Me
 
 - 📧 Email: **swarajrkfl22@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/shivam
+- 💼 LinkedIn: www.linkedin.com/in/shivam-swaraj72
+
+
 - 🌍 Location: India
 
 ---
