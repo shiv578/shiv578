@@ -1,32 +1,19 @@
-## Hi there 👋
-
-<!--
-**shiv578/shiv578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2a62a7b3-4a01-4d9c-a306-51cb73c4e758" width="140" style="border-radius:50%;" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Shivam Swaraj</h1>
 <h3 align="center">Aspiring Software Engineer | Cloud & DevOps Practitioner</h3>
 
 <p align="center">
-🚀 Building scalable applications and automating infrastructure using Cloud & DevOps principles
+  🚀 Building scalable applications and automating infrastructure using Cloud & DevOps principles
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech CSE ** student from India  
+- 🎓 **B.Tech CSE** student from India  
 - 🎯 Career focus: **Software Engineering with Cloud & DevOps**
 - ☁️ Hands-on experience with **AWS, Linux, Docker, CI/CD pipelines**
 - 🔁 Strong interest in **automation, scalability & system reliability**
@@ -102,13 +89,11 @@ A full-stack web application for buying, selling, and renting properties with se
 ## 🤝 Connect With Me
 
 - 📧 Email: **swarajrkfl22@gmail.com**
-- 💼 LinkedIn: www.linkedin.com/in/shivam-swaraj72
-
-
+- 💼 LinkedIn: https://www.linkedin.com/in/shivam-swaraj72
 - 🌍 Location: India
 
 ---
 
 <p align="center">
-<i>“Good systems scale. Great systems scale reliably.”</i>
+  <i>“Good systems scale. Great systems scale reliably.”</i>
 </p>
