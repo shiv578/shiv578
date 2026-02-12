@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/2a62a7b3-4a01-4d9c-a306-51cb73c4e758" width="140" style="border-radius:50%;" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Shivam Swaraj</h1>
+<h1 align="center">Hi 👋,  I'm Shivam Swaraj</h1>
 <h3 align="center">Aspiring Software Engineer | Cloud & DevOps Practitioner</h3>
 
 <p align="center">
