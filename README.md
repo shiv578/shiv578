@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️   Tech Stack
 
 ### 💻 Programming & Scripting
 - C++, JavaScript, Python, PHP
