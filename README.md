@@ -1,47 +1,38 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2a62a7b3-4a01-4d9c-a306-51cb73c4e758" width="140" style="border-radius:50%;" />
-</p>
-
-<h1 align="center">Hi 👋,  I'm Shivam Swaraj</h1>
-<h3 align="center">Aspiring Software Engineer | Cloud & DevOps Practitioner</h3>
+<h1 align="center">Hi 👋, I'm Shivam Swaraj</h1>
+<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | BTech CSE</h3>
 
 <p align="center">
-  🚀 Building scalable applications and automating infrastructure using Cloud & DevOps principles
+<img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;AI+%26+Cloud+Learner;Future+Software+Engineer" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech CSE** student from India  
-- 🎯 Career focus: **Software Engineering with Cloud & DevOps**
-- ☁️ Hands-on experience with **AWS, Linux, Docker, CI/CD pipelines**
-- 🔁 Strong interest in **automation, scalability & system reliability**
-- 🏗️ Actively building production-ready projects
-- 🧠 Currently learning **DevOps architecture, cloud security & monitoring**
+- 🎓 BTech CSE – Lovely Professional University
+- 🏫 Diploma in Mechatronics – ToolRoom Patna
+- 📍 From Patna, Bihar
+- 💡 Passionate about AI & Full Stack Development
+- 🎯 Goal: Become a Software Engineer
+- 🎮 Love Cricket & Gaming
 
 ---
 
-## 🛠️   Tech Stack
+## 🛠 Tech Stack
 
-### 💻 Programming & Scripting
-- C++, JavaScript, Python, PHP
+### 💻 Languages
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
 
-### 🌐 Web & Backend
-- React.js, Node.js, Express.js  
-- REST APIs  
-- HTML, CSS, Tailwind CSS
-
-### ☁️ Cloud & DevOps
-- AWS (EC2, S3, IAM)
-- Docker & Containerization
-- Git & GitHub
-- GitHub Actions (CI/CD)
-- Linux
-
-### 🗄️ Databases
-- MongoDB
-- MySQL
+### ⚙️ Frameworks & Tools
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 
 ---
 
@@ -80,11 +71,20 @@ A full-stack web application for buying, selling, and renting properties with se
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiv578&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiv578&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shiv578&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=shiv578&theme=tokyonight" />
 </p>
 
 ---
+
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shiv578&theme=tokyo-night" />
+
+ ---
 
 ## 🤝 Connect With Me
 
