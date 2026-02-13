@@ -21,6 +21,16 @@
   </a>
 </p>
 
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shiv578/shiv578/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+
 ---
 
 # 👨‍💻 About Me
