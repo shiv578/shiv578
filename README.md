@@ -1,118 +1,122 @@
+<h1 align="center">Hi 👋, I'm Shivam Swaraj</h1>
+<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | BTech CSE</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=250&section=header&text=Shivam%20Swaraj&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;AI+%26+Cloud+Learner;Problem+Solver;Future+Software+Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Cloud+Enthusiast;MERN+Stack+Specialist;Building+Scalable+Solutions" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/shivam-swaraj72" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:swarajrkfl22@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/shiv578">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=shiv578&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 💫 About Me
+## 👨‍💻 About Me
 
-<table align="center">
-  <tr>
-    <td width="55%" style="vertical-align: top;">
-      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="35" /> Who am I?</h3>
-      <p>I am a <b>BTech CSE Student</b> at Lovely Professional University with a background in <b>Mechatronics</b>. I bridge the gap between complex logic and user-centric design.</p>
-      <ul>
-        <li>🔭 Currently working on <b>Advanced AI Integrations</b></li>
-        <li>🌱 Learning <b>Cloud Architecture & DevOps</b></li>
-        <li>🎮 Fun Fact: I analyze cricket stats like I analyze code.</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Patna-Bihar-orange?style=flat-square&logo=googlemaps&logoColor=white" />
-        <img src="https://img.shields.io/badge/Open%20To-Work-green?style=flat-square" />
-      </p>
-    </td>
-    <td width="45%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv578&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="100%" />
-    </td>
-  </tr>
-</table>
+🎓 BTech CSE (Lateral Entry) – Lovely Professional University  
+🏫 Diploma in Mechatronics – ToolRoom & Training Centre, Patna  
+📍 From Patna, Bihar, India  
+💡 Passionate about Full Stack Development, AI & Cloud  
+🧠 Strong interest in building scalable systems  
+🎯 Goal: Become a High-Level Software Engineer  
 
 ---
 
-## 🛠 My Digital Toolbox
+## 🛠 Tech Stack
 
-### 🏗️ Frontend & Styling
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap,js" />
-  </a>
-</p>
+### 💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### ⚙️ Backend & Databases
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php,firebase,postman" />
-  </a>
-</p>
+### ⚙️ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### 💻 Languages & OS
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,linux,git,github,vscode" />
-  </a>
-</p>
+### 🔧 Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ## 🚀 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shiv578&repo=Fitnationproject&theme=tokyonight&show_owner=true" />
-      <br>
-      <a href="https://fitnationproject.vercel.app/"><b>Live Demo 🏋️</b></a>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shiv578&repo=Property-Management&theme=tokyonight&show_owner=true" />
-      <br>
-      <a href="https://github.com/shiv578/Property-Management"><b>Source Code 🏠</b></a>
-    </td>
-  </tr>
-</table>
+### 🔥 FitNation – Full Stack Health Platform
+A complete health dashboard that enables users to:
+
+- 📊 Track BMI history  
+- 💧 Monitor water intake  
+- 📅 Manage daily tasks  
+- 🔥 Maintain activity streaks  
+- 📈 Visualize progress with interactive charts  
+- 🔗 Google Fit API integration  
+
+🛠 Tech Stack: React, Node.js, Express, MongoDB, Recharts  
+
+🔗 **Live Demo:** https://fitnationproject.vercel.app/  
+🔗 **GitHub:** https://github.com/shiv578  
 
 ---
 
-## 📊 Performance Metrics
+### 🏠 Property Management System
+
+A full-stack web application allowing users to:
+
+- 🏘 Buy / Sell / Rent properties  
+- 🔐 Secure authentication system  
+- 🔎 Advanced filtering & dynamic search  
+- 🗄 Efficient MySQL database management  
+
+🛠 Tech Stack: PHP, MySQL, JavaScript, Tailwind CSS  
+
+🔗 **GitHub:** https://github.com/shiv578  
+
+---
+
+## 📜 Certifications
+
+🎓 Master Generative AI – Udemy  
+🎓 AI Powered NLP – Algo Tutor  
+🎓 Database Mastery  
+🎓 Cloud Computing – NPTEL  
+🎓 C++, DSA & Java Programming  
+🎓 Computer Networks – Coursera  
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiv578&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiv578&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shiv578&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=shiv578&theme=tokyonight" height="170"/>
 </p>
 
-### 🐍 Contribution Journey
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shiv578/shiv578/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiv578&theme=tokyo-night" />
 </p>
 
 ---
 
-## 🤝 Let's Connect!
+## 🌐 Connect With Me
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="60" />
-<br>
-I'm always open to collaborating on <b>Open Source</b> projects or <b>Full Stack</b> opportunities. 
-<br><br>
-<i>"Good systems scale. Great systems scale reliably."</i>
+<a href="https://www.linkedin.com/in/shivam">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:swarajrkfl22@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer" width="100%"/>
+⭐ Building scalable full stack applications with modern UI & clean architecture.
 </p>
