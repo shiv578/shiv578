@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shiv578&label=Profile%20Views&color=58A6FF&style=flat" />
-  <a href="https://leetcode.com/simplecoder/">
+  <a href="https://leetcode.com/u/Shiv_143/">
     <img src="https://img.shields.io/badge/LeetCode-simplecoder-orange?style=for-the-badge&logo=leetcode"/>
   </a>
   <a href="https://github.com/shiv578">
