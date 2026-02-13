@@ -1,165 +1,87 @@
-<h1 align="center">Hi 👋, I'm Shivam Swaraj</h1>
-<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | BTech CSE</h3>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" /> 
+  Hey there! I'm Shivam Swaraj
+</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;AI+%26+Cloud+Learner;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;MERN+Stack+Expert;Future+Software+Engineer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/shivam-swaraj72" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:swarajrkfl22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 BTech CSE – Lovely Professional University
-- 🏫 Diploma in Mechatronics – ToolRoom Patna
-- 📍 From Patna, Bihar
-- 💡 Passionate about AI & Full Stack Development
-- 🎯 Goal: Become a Software Engineer
-- 🎮 Love Cricket & Gaming
+## 💫 About Me
+<table align="center">
+  <tr>
+    <td width="50%">
+      <p>I am a <b>BTech CSE Student</b> at Lovely Professional University with a background in <b>Mechatronics</b>. I bridge the gap between complex logic and user-centric design.</p>
+      <ul>
+        <li>🔭 Currently working on <b>Advanced AI Integrations</b></li>
+        <li>🌱 Learning <b>Cloud Architecture & DevOps</b></li>
+        <li>🎮 Fun Fact: I analyze cricket stats like I analyze code.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv578&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 My Tech Arsenal
 
-### 💻 Languages
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
+### 🌐 Frontend & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,mysql,php" />
+</p>
 
-### ⚙️ Frameworks & Tools
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+### 💻 Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,linux,git,github,postman,vscode" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏋️ FitNation — Health & Fitness Platform
-A full-stack health & fitness dashboard focused on real-time tracking and user consistency.
-
-**Key Features**
-- BMI history & water intake tracking  
-- Daily challenges with streak & anti-cheat logic  
-- Google Fit API integration for live biometric data  
-- Analytics dashboards using interactive charts  
-
-🔗 **Live Project:** https://fitnationproject.vercel.app/  
-📂 **GitHub Repo:** https://github.com/shiv578/Fitnationproject  
-
-**Tech Stack:** React, Node.js, Express, MongoDB, Google Fit API, Recharts
-
----
+### ⚡ FitNation — Health & Fitness Platform
+> A high-performance dashboard integrating live biometric data.
+- **Tech:** React, Node.js, MongoDB, Google Fit API
+- 🔗 [Live Demo](https://fitnationproject.vercel.app/) • [Source Code](https://github.com/shiv578/Fitnationproject)
 
 ### 🏠 Property Management System
-A full-stack web application for buying, selling, and renting properties with secure backend handling.
-
-**Key Features**
-- User authentication & secure data management  
-- Property listing, search & advanced filtering  
-- Responsive UI for seamless navigation  
-
-📂 **GitHub Repo:** https://github.com/shiv578/Property-Management  
-
-**Tech Stack:** PHP, MySQL, JavaScript, Tailwind CSS
+> Scalable solution for real estate listings and secure transactions.
+- **Tech:** PHP, MySQL, JavaScript, Tailwind CSS
+- 📂 [Source Code](https://github.com/shiv578/Property-Management)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Universe
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shiv578&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiv578&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiv578&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=shiv578&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiv578&theme=tokyo-night&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
 
-
----
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shiv578&theme=tokyo-night" <h1 align="center">Hi 👋, I'm Shivam Swaraj</h1>
-<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | BTech CSE</h3>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;AI+Learner;Future+Software+Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer" width="100%"/>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 BTech CSE – Lovely Professional University  
-- 🏫 Diploma in Mechatronics – ToolRoom Patna  
-- 📍 From Patna, Bihar  
-- 💡 Passionate about AI & Full Stack Development  
-- 🎯 Aim: Become a Software Engineer  
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Languages
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
-
-### ⚙️ Frameworks
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
----
-
-## 🚀 Featured Project
-
-### 🔥 FitNation
-Full Stack Health Dashboard with:
-- BMI Tracking
-- Google Fit API Integration
-- Water Tracking
-- Streak System
-- Interactive Charts
-
-🔗 Live: https://fitnationproject.vercel.app/
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiv578&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=shiv578&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:swarajrkfl22@gmail.com)
-
----
-
-⭐ Building scalable full stack applications with modern UI.
-/>
-
- ---
-
-## 🤝 Connect With Me
-
-- 📧 Email: **swarajrkfl22@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/shivam-swaraj72
-- 🌍 Location: India
-
----
-
-<p align="center">
-  <i>“Good systems scale. Great systems scale reliably.”</i>
+  <i>“Good systems scale. Great systems scale reliably.”</i> <br>
+  <b>Let's build something amazing!</b>
 </p>
