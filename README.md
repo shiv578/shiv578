@@ -45,15 +45,13 @@ const shivam = {
 - 🎯 2026 Goal: Crack Top Product-Based Internship  
 - ⚡ Fun Fact: I debug using 20+ console.log() 😄  
 
----
 
-# 🧑‍💻 Programmer Animation
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 </p>
 
----
 
 # 🏆 LeetCode Stats
 
