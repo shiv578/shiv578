@@ -25,19 +25,9 @@
 ---
 
 ## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shiv578/shiv578/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shiv578/shiv578/output/github-snake.svg">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/shiv578/shiv578/output/github-snake.svg">
-</picture>
-
-<details>
-  <summary>🚀 View 3D Contribution Map</summary>
-  <br/>
-  <img src="https://raw.githubusercontent.com/shiv578/shiv578/output/ocean.gif" alt="3D Snake" />
-</details>
-
+<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
+  <img src="https://raw.githubusercontent.com/shiv578/shiv578/output/github-snake-dark.svg" alt="Glow Snake" />
+</div>
 
 ---
 
