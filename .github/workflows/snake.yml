@@ -1,12 +1,17 @@
-name: Generate Snake
+name: Generate Snake Advanced
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
+    - cron: "0 */12 * * *" 
   workflow_dispatch:
   push:
     branches:
     - main
+
+# Prevents multiple versions of this workflow from running at the same time
+concurrency:
+  group: github-snake
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -15,20 +20,26 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      - name: Generate snake
+      - name: Generate Snake Files
         uses: Platane/snk@v3
         with:
-          github_user_name: shiv578
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#3c7dd9&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
-        # The line above sets a custom blue snake and standard GitHub dark green dots.
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+            # 1. Standard Dark Theme
+            dist/github-snake.svg?palette=github-dark
+            
+            # 2. Advanced Neon Theme (Custom Colors)
+            # Snake is Neon Blue (#00D2FF), Dots are Dark to Electric Purple
+            dist/github-snake-dark.svg?color_snake=#00D2FF&color_dots=#161b22,#392b5b,#6e3cbc,#9d4edd,#c77dff
+            
+            # 3. 3D Animation (Requires special rendering)
+            dist/ocean.gif?color_snake=#7dd3fc&color_dots=#161b22,#0ea5e9,#2563eb,#1d4ed8,#1e3a8a&dark_mode=true
+        
+      - name: Deploy to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
