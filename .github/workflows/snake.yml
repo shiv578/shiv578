@@ -2,24 +2,30 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *" # Runs every 12 hours
   workflow_dispatch:
+  push:
+    branches:
+    - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v3
 
       - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: shiv578
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#3c7dd9&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+        # The line above sets a custom blue snake and standard GitHub dark green dots.
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
