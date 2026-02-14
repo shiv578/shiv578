@@ -1,4 +1,4 @@
-name: Generate Snake Advanced
+name: Generate Snake Glow
 
 on:
   schedule:
@@ -8,7 +8,6 @@ on:
     branches:
     - main
 
-# Prevents multiple versions of this workflow from running at the same time
 concurrency:
   group: github-snake
   cancel-in-progress: true
@@ -28,15 +27,16 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            # 1. Standard Dark Theme
+            # Standard Dark (Subtle Glow)
             dist/github-snake.svg?palette=github-dark
             
-            # 2. Advanced Neon Theme (Custom Colors)
-            # Snake is Neon Blue (#00D2FF), Dots are Dark to Electric Purple
-            dist/github-snake-dark.svg?color_snake=#00D2FF&color_dots=#161b22,#392b5b,#6e3cbc,#9d4edd,#c77dff
+            # HIGH GLOW NEON (The "Electric Blue" effect)
+            # Snake: Cyan (#00FFFF)
+            # Dots: Black -> Deep Blue -> Cyan -> White-Cyan (Glow effect)
+            dist/github-snake-dark.svg?color_snake=#00FFFF&color_dots=#0a0a0a,#002d5e,#0059b3,#00d2ff,#ffffff
             
-            # 3. 3D Animation (Requires special rendering)
-            dist/ocean.gif?color_snake=#7dd3fc&color_dots=#161b22,#0ea5e9,#2563eb,#1d4ed8,#1e3a8a&dark_mode=true
+            # 3D Ocean (Enhanced Glow)
+            dist/ocean.gif?color_snake=#00FFFF&color_dots=#0a0a0a,#002d5e,#0059b3,#00d2ff,#ffffff&dark_mode=true
         
       - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
