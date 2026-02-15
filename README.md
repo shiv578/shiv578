@@ -26,21 +26,12 @@
 
 ## ⚡ Neon Snake Engine
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shiv578/shiv578/output/neon-blue.svg" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shiv578/shiv578/output/cyberpunk.svg" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shiv578/shiv578/output/matrix.svg" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shiv578/shiv578/output/ocean.gif" />
-</p>
+
 
 ---
 
