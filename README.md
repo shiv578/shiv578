@@ -24,10 +24,23 @@
 
 ---
 
-## 🐍 Contribution Snake
-<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
-  <img src="https://raw.githubusercontent.com/shiv578/shiv578/output/github-snake-dark.svg" alt="Glow Snake" />
-</div>
+## ⚡ Neon Snake Engine
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/output/neon-blue.svg" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/output/cyberpunk.svg" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/output/matrix.svg" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/output/ocean.gif" />
+</p>
 
 ---
 
