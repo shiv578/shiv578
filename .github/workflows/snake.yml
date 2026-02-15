@@ -1,44 +1,45 @@
-name: Generate Snake Glow
+name: ⚡ Neon Cyber Snake Engine
 
 on:
   schedule:
-    - cron: "0 */12 * * *" 
+    - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
     branches:
-    - main
+      - main
 
 concurrency:
-  group: github-snake
+  group: neon-snake-engine
   cancel-in-progress: true
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Generate Snake Files
+      - name: Generate Futuristic Snake Variants
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            # Standard Dark (Subtle Glow)
-            dist/github-snake.svg?palette=github-dark
-            
-            # HIGH GLOW NEON (The "Electric Blue" effect)
-            # Snake: Cyan (#00FFFF)
-            # Dots: Black -> Deep Blue -> Cyan -> White-Cyan (Glow effect)
-            dist/github-snake-dark.svg?color_snake=#00FFFF&color_dots=#0a0a0a,#002d5e,#0059b3,#00d2ff,#ffffff
-            
-            # 3D Ocean (Enhanced Glow)
-            dist/ocean.gif?color_snake=#00FFFF&color_dots=#0a0a0a,#002d5e,#0059b3,#00d2ff,#ffffff&dark_mode=true
-        
-      - name: Deploy to Output Branch
+
+            dist/github-snake-dark.svg?palette=github-dark
+
+            dist/neon-blue.svg?color_snake=#00FFFF&color_dots=#050505,#001f3f,#003f7f,#00bfff,#ffffff
+
+            dist/cyberpunk.svg?color_snake=#ff00ff&color_dots=#0a0014,#2b004f,#6a00ff,#ff00cc,#ffffff
+
+            dist/matrix.svg?color_snake=#00ff00&color_dots=#001a00,#003300,#006600,#00cc00,#ffffff
+
+            dist/fire.svg?color_snake=#ff3c00&color_dots=#140000,#400000,#800000,#ff0000,#ffff00
+
+            dist/ocean.gif?color_snake=#00FFFF&color_dots=#001219,#005f73,#0a9396,#94d2bd,#ffffff&dark_mode=true
+
+      - name: Deploy Snake Output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
