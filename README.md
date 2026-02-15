@@ -68,15 +68,7 @@ const shivam = {
 
 # 🏆 LeetCode Heatmap & Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/simplecoder?theme=dark&font=Baloo%202&ext=heatmap" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Easy-144/925-2ecc71?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Medium-52/2005-f1c40f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hard-25/907-e74c3c?style=for-the-badge"/>
-</p>
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/28fe4003-028a-4500-a41d-bee0474edd62" />
 
 ---
 
