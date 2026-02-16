@@ -52,11 +52,21 @@ const shivam = {
   goal: "Crack top product-based internship in 2026"
 };
 ```
+<a href="https://shivamswarajportfolio.vercel.app/" target="_blank">
+  <img 
+    src="https://github.com/user-attachments/assets/074fa75d-0ae2-4688-9d89-5c54de02e141" 
+    alt="Portfolio Image" 
+    width="1773" 
+    height="922"
+  />
+</a>
+
 
 - 🔨 Currently Building: FitNation – Health Dashboard  
 - 📚 Improving: Advanced DSA & Backend Architecture  
 - 🏆 LeetCode Contest Rating: 1415  
-- 💡 Interested in scalable web systems  
+- 💡 Interested in scalable web systems
+
 
 </td>
 
