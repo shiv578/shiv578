@@ -81,7 +81,12 @@ const shivam = {
 ---
 
 # 🏆 LeetCode
-<img width="512" height="341" alt="image" src="https://github.com/user-attachments/assets/6672ca24-5b4b-4173-918d-376194eba7ba" />
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/6672ca24-5b4b-4173-918d-376194eba7ba" 
+    width="100%" 
+  />
+</p>
 
  
 
