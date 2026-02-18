@@ -81,18 +81,7 @@ const shivam = {
 ---
 
 # 🏆 LeetCode
-
-<p align="center">
-  <a href="https://leetcode.com/u/Shiv_143/">
-    <video src="https://github.com/user-attachments/assets/977cea48-b4bc-43a3-b8e1-ec4b008ddfd3" 
-           width="100%" 
-           autoplay 
-           loop 
-           muted 
-           playsinline>
-    </video>
-  </a>
-</p>
+<img width="512" height="341" alt="image" src="https://github.com/user-attachments/assets/6672ca24-5b4b-4173-918d-376194eba7ba" />
 
  
 
