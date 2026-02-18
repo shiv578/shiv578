@@ -80,14 +80,12 @@ const shivam = {
 
 ---
 
-# 🏆 LeetCode He
+# 🏆 LeetCode
 
-https://github.com/user-attachments/assets/f106d57a-91c9-45ee-a134-8fd043672726
+[![LeetCode Dashboard](https://github.com/user-attachments/assets/977cea48-b4bc-43a3-b8e1-ec4b008ddfd3)](https://leetcode.com/u/Shiv_143/)
+ 
 
-atmap & Stats
 
-
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/28fe4003-028a-4500-a41d-bee0474edd62" />
 
 ---
 
