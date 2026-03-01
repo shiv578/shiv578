@@ -1,7 +1,6 @@
 
 
-
-     <!-- ================= FULL WIDTH FUTURISTIC BANNER ================= -->
+ <!-- ================= FULL WIDTH FUTURISTIC BANNER ================= -->
 
 
 
