@@ -1,6 +1,6 @@
 
 
- <!-- ================= FULL WIDTH FUTURISTIC BANNER ================= -->
+ <!-- ================= FULL WIDTH FUTURISTI BANNER ================= -->
 
 
 
