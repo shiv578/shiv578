@@ -1,6 +1,6 @@
 
 
- <!-- ================= FULL W IDTH  FUT URISTI BANER ================= -->
+ <!-- ================= FULL W IDTH  FUT URISTI BA NER ================= -->
 
 
 
