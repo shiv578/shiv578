@@ -1,6 +1,6 @@
 
 
- <!-- ================= FULL WIDTH  FUTURISTI BANER ================= -->
+ <!-- ================= FULL W IDTH  FUTURISTI BANER ================= -->
 
 
 
