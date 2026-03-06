@@ -1,6 +1,6 @@
 
 
- <!-- =================  F  U L L W ID TH  FUT UR I  STI B A N E R ================= -->
+ <!-- =================  F  U L L W I D T H  FUT UR I  STI B A N E R ================= -->
 
 
 
