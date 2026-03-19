@@ -8,7 +8,7 @@
 </p>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Shivam+👋;LeetCode:+simplecoder;Full+Stack+Developer;MERN+Stack+Enthusiast;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Shivam swaraj+👋;LeetCode:+simplecoder;Full+Stack+Developer;MERN+Stack+Enthusiast;Future+Software+Engineer" />
 </h2>
 
 <p align="center">
