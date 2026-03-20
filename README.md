@@ -77,10 +77,8 @@ const shivam = {
 
 # 🏆 LeetCode
 <p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/6672ca24-5b4b-4173-918d-376194eba7ba" 
-    width="100%" 
-  />
+<img width="1557" height="672" alt="image" src="https://github.com/user-attachments/assets/2d741f58-207b-467f-9424-224303bf6539" />
+
 </p>
 
  
