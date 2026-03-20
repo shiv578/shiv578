@@ -14,7 +14,7 @@
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=shiv578&label=Profile%20Views&color=58A6FF&style=flat" />
   <a href="https://leetcode.com/u/Shiv_143/">
-    <img src="https://img.shields.io/badge/LeetCode-simplecoder-orange?style=for-the-badge&logo=leetcode"/>
+<img width="1557" height="672" alt="image" src="https://github.com/user-attachments/assets/5b7970bf-d04f-4bdf-8443-e1a41655ecaa" />
   </a>
   <a href="https://github.com/shiv578">
     <img src="https://img.shields.io/badge/GitHub-shiv578-black?style=for-the-badge&logo=github"/>
