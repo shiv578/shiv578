@@ -12,9 +12,17 @@
 </h2>
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=shiv578&label=Profile%20Views&color=58A6FF&style=flat" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Shivam%20Swaraj&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=60&descAlign=50"/>
+</p>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Shivam+👋;LeetCode:+simplecoder;Full+Stack+Developer;MERN+Stack+Enthusiast;Future+Software+Engineer" />
+</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shiv578&label=Profile%20Views&color=58A6FF&style=flat" />
   <a href="https://leetcode.com/u/Shiv_143/">
-<img width="1557" height="672" alt="image" src="https://github.com/user-attachments/assets/5b7970bf-d04f-4bdf-8443-e1a41655ecaa" />
+    <img src="https://img.shields.io/badge/LeetCode-simplecoder-orange?style=for-the-badge&logo=leetcode"/>
   </a>
   <a href="https://github.com/shiv578">
     <img src="https://img.shields.io/badge/GitHub-shiv578-black?style=for-the-badge&logo=github"/>
@@ -23,17 +31,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Shivam%20Swaraj-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
-
----
-
-## ⚡ Neon Snake Engine
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shiv578/shiv578/output/matrix.svg" />
-</p>
-
-
 
 ---
 
