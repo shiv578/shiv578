@@ -4,9 +4,7 @@
   
 
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=58A6FF&center=true&vCenter=true&width=950&lines=Hey+there!+I'm+Shivam+Swaraj+👋;Full+Stack+Developer+%7C+MERN+Stack;Solved+220%2B+DSA+Problems;Aspiring+Software+Engineer+2026;Passionate+About+Scalable+Systems" />
-</h2>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Shivam%20Swaraj&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=60&descAlign=50"/>
