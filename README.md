@@ -51,12 +51,8 @@ const shivam = {
 ```
 
 <a href="https://shivamswarajportfolio.vercel.app/" target="_blank">
-  <img 
-    src="https://github.com/user-attachments/assets/074fa75d-0ae2-4688-9d89-5c54de02e141" 
-    alt="Portfolio Image" 
-    width="1773" 
-    height="922"
-  />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c86f7354-1502-464b-aeb2-11298ff4ac1a" />
+
 </a>
 
 
