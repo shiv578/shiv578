@@ -5,7 +5,7 @@
 
 
 
-<!-- ================= FULL WIDTH FUTURISTIC BANNER ================= -->
+<!-- ================= FULL  WIDTH FUTURISTIC BANNER ================= -->
 
 <p align="center">
   <img 
