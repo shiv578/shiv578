@@ -5,7 +5,7 @@
 
 
 
-<!-- =================  FULL  WIDT H  FUTU RISTIC BANNER ============= ==== -->
+<!-- =================  FULL  WIDT  H  FUTU RISTIC BANNER ============= ==== -->
 
 <p align="center">
   <img 
