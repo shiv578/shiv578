@@ -80,6 +80,15 @@ const shivam = {
 
 </p>
 
+
+---
+
+# 🐍 My Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shiv578/YOUR_REPO_NAME/output/cyberpunk.svg" alt="Snake Animation" />
+</p>
+
+---
  
 
 
