@@ -1,10 +1,4 @@
-<p align="center"> 
-  <img 
-    src="PASTE_YOUR_DIRECT_GIF_URL_HERE.gif" 
-    alt="Mario Pixel Art Desk Animation"
-    style="width:100%; max-width:100%; border-radius: 8px;"
-  />
-</p>
+
  <!-- ========= ========       F   U   L L    W  I D T H     F    U    T  U    R    I  S    T   I B    A    N  E R ================= -->
     
 
