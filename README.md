@@ -1,4 +1,30 @@
- 
+
+ <p align="center"> 
+  <img 
+    src="YOUR_ANIMATION_GIF_URL" 
+    alt="Mario Pixel Art Desk Animation"
+    style="width:100%; max-width:100%; border-radius: 8px;"
+  />
+</p>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Shivam+👋;LeetCode:+simplecoder;Full+Stack+Developer;MERN+Stack+Enthusiast;Future+Software+Engineer" />
+</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shiv578&label=Profile%20Views&color=58A6FF&style=flat" />
+  <a href="https://leetcode.com/u/Shiv_143/">
+    <img src="https://img.shields.io/badge/LeetCode-simplecoder-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+  <a href="https://github.com/shiv578">
+    <img src="https://img.shields.io/badge/GitHub-shiv578-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shivam-swaraj72">
+    <img src="https://img.shields.io/badge/LinkedIn-Shivam%20Swaraj-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+---
 
  <!-- ========= ========       F   U   L L    W  I D T H     F    U    T  U    R    I  S    T   I B    A    N  E R ================= -->
     
