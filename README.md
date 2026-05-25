@@ -7,10 +7,8 @@
 <!-- =================  FULL  WIDT  H  FUTU RISTIC BANNER ============= ==== -->
 
 <p align="center"> 
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Shivam%20Swaraj&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=60&descAlign=50" 
-    style="width:100%; max-width:100%;"
-  />
+<img width="1672" height="941" alt="wallpaper" src="https://github.com/user-attachments/assets/b69afcfd-8013-4b7d-87b8-76c0a5d419bb" />
+
 </p>
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Shivam+👋;LeetCode:+simplecoder;Full+Stack+Developer;MERN+Stack+Enthusiast;Future+Software+Engineer" />
