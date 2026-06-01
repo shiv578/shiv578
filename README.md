@@ -4,7 +4,7 @@
 
 
 
-<!-- =================  FULL  WIDT  H  FUTU RISTIC BANNER ============= ==== -->
+<!-- =================  FULL  W IDT  H  FUTU RISTIC BANNER ============= ==== -->
 
 <p align="center"> 
 <img width="1672" height="941" alt="wallpaper" src="https://github.com/user-attachments/assets/b69afcfd-8013-4b7d-87b8-76c0a5d419bb" />
