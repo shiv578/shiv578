@@ -83,56 +83,124 @@ const shivam = {
 ---
  
 
+---
 
-
- ---
-
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiv578&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=shiv578&theme=tokyonight&hide_border=true" height="170"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shiv578&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
+  <img height="170" src="https://streak-stats.demolab.com?user=shiv578&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiv578&theme=tokyo-night&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv578&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shiv578&theme=tokyo-night&hide_border=true&radius=16" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiv578&theme=tokyonight" />
 </p>
 
 ---
 
-# 🛠 Tech Stack
+# 🏆 GitHub Achievements
 
-## 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shiv578&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" />
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## 🚀 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript&theme=dark" />
+</p>
 
 ## 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
-
-## ⚙ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
----
-
- # 📬 Contact Me
-
-📧 swarajrkfl22@gmail.com  
-🔗 GitHub: https://github.com/shiv578  
-🔗 LinkedIn: https://www.linkedin.com/in/shivam-swaraj72  
-
----
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Built%20With-❤️-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Powered%20By-Coffee-brown?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,redux,bootstrap&theme=dark" />
+</p>
+
+## ⚙️ Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
+</p>
+
+## 🛠 Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,npm,vercel,netlify,figma&theme=dark" />
+</p>
+
+---
+
+# 📈 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Shiv_143/">
+<img src="https://img.shields.io/badge/LeetCode-simplecoder-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shiv578">
+<img src="https://img.shields.io/badge/GitHub-shiv578-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shivam-swaraj72">
+<img src="https://img.shields.io/badge/LinkedIn-Shivam%20Swaraj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💌 Connect With Me
+
+<p align="center">
+
+<a href="mailto:swarajrkfl22@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shiv578">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shivam-swaraj72">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://shivamswarajportfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💖 Support My Work
+
+<p align="center">
+  ⭐ If you like my projects, consider giving them a star!
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:2c5364,100:0f2027&section=footer"/>
-</p>  
+  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MERN-Developer-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Always-Learning-orange?style=for-the-badge"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F2027,50:203A43,100:2C5364&section=footer" />
+</p>
