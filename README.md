@@ -1,44 +1,52 @@
-<!-- ================= FULL WIDTH FUTURISTIC BANNER ================= -->
+    
+ <!-- === ====== ======  ==     F m   U                  L L              W      I D T H              F      U        T      U       R  
+ I  S    T   I  B     A    N  E R ================= -->      
+     
+ 
+   
+
+<!-- =================  FULL  W IDT  H  FUTU RISTIC BANNER ============= ==== -->
 
 <p align="center"> 
-  <img width="100%" alt="wallpaper" src="https://github.com/user-attachments/assets/b69afcfd-8013-4b7d-87b8-76c0a5d419bb" />
-</p>
+<img width="1672" height="941" alt="wallpaper" src="https://github.com/user-attachments/assets/b69afcfd-8013-4b7d-87b8-76c0a5d419bb" />
 
+</p>
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Shivam+👋;LeetCode:+simplecoder;Full+Stack+Developer;MERN+Stack+Enthusiast;Future+Software+Engineer" />
 </h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shiv578&label=Profile%20Views&color=58A6FF&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=shiv578&label=Profile%20Views&color=58A6FF&style=flat" />
   <a href="https://leetcode.com/u/Shiv_143/">
-    <img src="https://img.shields.io/badge/LeetCode-simplecoder-orange?style=flat-square&logo=leetcode"/>
+    <img src="https://img.shields.io/badge/LeetCode-simplecoder-orange?style=for-the-badge&logo=leetcode"/>
   </a>
   <a href="https://github.com/shiv578">
-    <img src="https://img.shields.io/badge/GitHub-shiv578-black?style=flat-square&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-shiv578-black?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://www.linkedin.com/in/shivam-swaraj72">
-    <img src="https://img.shields.io/badge/LinkedIn-Shivam%20Swaraj-blue?style=flat-square&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Shivam%20Swaraj-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+ # 👨‍💻 About Me
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="50%">
 
 ```js
 const shivam = {
   name: "Shivam Swaraj",
   role: "Full Stack Developer",
   location: "Patna, Bihar, India",
-  leetcode: "simplecoder",
-  problems_solved: "250+",
-  focus: ["MERN Stack", "Data Structures & Algorithms", "System Design"],
-  goal: "Crack a top product-based engineering role in 2026"
+  leetcode_username: "simplecoder",
+  problems_solved: 221,
+  focus: ["MERN Stack", "Data Structures", "System Design"],
+  goal: "Crack top product-based internship in 2026"
 };
+```
 
 <a href="https://shivamswarajportfolio.vercel.app/" target="_blank">
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c86f7354-1502-464b-aeb2-11298ff4ac1a" />
@@ -127,4 +135,4 @@ const shivam = {
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:2c5364,100:0f2027&section=footer"/>
-</p>
+</p>  
