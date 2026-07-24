@@ -91,8 +91,7 @@ const shivam = {
   <img height="170"
        src="https://github-readme-stats.vercel.app/api?username=shiv578&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
 
-  <img height="170"
-       src="https://streak-stats.demolab.com?user=shiv578&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 
