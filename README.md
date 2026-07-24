@@ -92,25 +92,9 @@ const shivam = {
   <img height="170" src="https://streak-stats.demolab.com?user=shiv578&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv578&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shiv578&theme=tokyo-night&hide_border=true&radius=16" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiv578&theme=tokyonight" />
-</p>
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shiv578&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" />
-</p>
 
 ---
 
