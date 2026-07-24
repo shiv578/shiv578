@@ -95,14 +95,6 @@ const shivam = {
        src="https://streak-stats.demolab.com?user=shiv578&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv578&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=shiv578&theme=tokyo-night&hide_border=true&radius=16&area=true"/>
-</p>
 
 ---
 # 💻 Tech Stack
