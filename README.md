@@ -11,8 +11,7 @@
  U       R  
  I  S    T   I  B     A    N  E R  ================= -
 
-     
- 
+    
     
 
 <!-- =================  FULL  W IDT  H  FUTU RISTIC BANNER ============= ==== --> 
